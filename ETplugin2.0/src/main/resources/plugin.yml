@@ -1,0 +1,8 @@
+name: ETplugin
+version: '${project.version}'
+main: me.thundercaster.etplugin.ETplugin
+api-version: 1.16
+description: good plugin
+commands:
+  armorstand:
+    description: gives armor stand

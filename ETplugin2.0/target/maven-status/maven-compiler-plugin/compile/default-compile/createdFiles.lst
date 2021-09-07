@@ -1,0 +1,4 @@
+me\thundercaster\etplugin\commands\ArmourStand.class
+me\thundercaster\etplugin\ETplugin.class
+me\thundercaster\etplugin\events\OpenArmourStand.class
+me\thundercaster\etplugin\events\OpenArmourStand$1.class
